@@ -1,0 +1,15 @@
+# Core
+pandas
+numpy
+tqdm
+regex
+nltk
+scikit-learn
+matplotlib
+
+# Embeddings / semantic similarity
+sentence-transformers
+
+# API + env
+openai
+python-dotenv

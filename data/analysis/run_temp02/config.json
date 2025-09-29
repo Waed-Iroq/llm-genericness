@@ -1,0 +1,18 @@
+{
+  "generation": {},
+  "analysis": {
+    "timestamp": "2025-09-27T19:00:16",
+    "date": "2025-09-27",
+    "git_commit": null,
+    "script": "metrics.py",
+    "responses_glob": "data/responses/temp02/*.jsonl",
+    "resolved_responses_path": "data/responses/temp02/gpt35_t02_seed42.jsonl",
+    "responses_sha256": "928eb9023f86ca3cf5435bd2f6651784b55a8bc5d6881c88a1b0248f3fe153cf",
+    "min_per_prompt": 2,
+    "skip_sbert": false,
+    "sbert_used": true,
+    "topk": 5,
+    "n_rows": 426,
+    "n_tasks": 8
+  }
+}

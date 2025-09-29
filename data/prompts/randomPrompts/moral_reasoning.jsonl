@@ -1,0 +1,35 @@
+{"task":"moral_reasoning","group":"privacy","prompt_id":"m13","prompt":"Is it wrong to read someone’s private messages without their permission?"}
+{"task":"moral_reasoning","group":"charity","prompt_id":"m14","prompt":"Do wealthy people have a moral duty to donate to the poor?"}
+{"task":"moral_reasoning","group":"justice","prompt_id":"m15","prompt":"Should a person be punished more severely if they committed a crime out of greed?"}
+{"task":"moral_reasoning","group":"animal_rights","prompt_id":"m16","prompt":"Is eating meat morally wrong if plant-based alternatives are available?"}
+{"task":"moral_reasoning","group":"fairness","prompt_id":"m17","prompt":"Should teachers ever give extra help to struggling students even if it seems unfair to others?"}
+{"task":"moral_reasoning","group":"technology","prompt_id":"m18","prompt":"Is it ethical to use AI tools to complete school assignments?"}
+{"task":"moral_reasoning","group":"loyalty","prompt_id":"m19","prompt":"Should you protect a friend who committed a minor crime, or tell the truth to authorities?"}
+{"task":"moral_reasoning","group":"environment","prompt_id":"m20","prompt":"Do we have a moral obligation to reduce our carbon footprint?"}
+{"task":"moral_reasoning","group":"revenge","prompt_id":"m21","prompt":"Is seeking revenge ever justified, or should forgiveness always be chosen?"}
+{"task":"moral_reasoning","group":"truth","prompt_id":"m22","prompt":"Is it wrong to tell the truth if it causes unnecessary pain?"}
+{"task":"moral_reasoning","group":"workplace","prompt_id":"m23","prompt":"Is it ethical to take credit for a team’s work if you contributed the most?"}
+{"task":"moral_reasoning","group":"health","prompt_id":"m24","prompt":"Should parents have the right to refuse medical treatment for their children?"}
+{"task":"moral_reasoning","group":"war","prompt_id":"m25","prompt":"Is it ever morally acceptable to harm civilians during wartime?"}
+{"task":"moral_reasoning","group":"property","prompt_id":"m26","prompt":"Is it wrong to keep a wallet you found if you don’t know who owns it?"}
+{"task":"moral_reasoning","group":"friendship","prompt_id":"m27","prompt":"Should you tell a friend the harsh truth if it could hurt your relationship?"}
+{"task":"moral_reasoning","group":"family","prompt_id":"m28","prompt":"Is it moral to place an elderly parent in a nursing home against their wishes?"}
+{"task":"moral_reasoning","group":"competition","prompt_id":"m29","prompt":"Is cheating in a game morally wrong if no one gets hurt?"}
+{"task":"moral_reasoning","group":"society","prompt_id":"m30","prompt":"Do citizens have a moral duty to vote in elections?"}
+{"task":"moral_reasoning","group":"money","prompt_id":"m31","prompt":"Is it wrong to accept a high-paying job at a company known for exploiting workers?"}
+{"task":"moral_reasoning","group":"secrets","prompt_id":"m32","prompt":"Should you ever break a promise to keep someone’s secret if others could be harmed?"}
+{"task":"moral_reasoning","group":"justice","prompt_id":"m33","prompt":"Is it fair to judge people today for actions they took decades ago?"}
+{"task":"moral_reasoning","group":"responsibility","prompt_id":"m34","prompt":"Do individuals have a moral duty to speak up when they see injustice?"}
+{"task":"moral_reasoning","group":"technology","prompt_id":"m35","prompt":"Is it ethical for companies to track user data without explicit consent?"}
+{"task":"moral_reasoning","group":"family","prompt_id":"m36","prompt":"Should children always obey their parents, even when they disagree?"}
+{"task":"moral_reasoning","group":"wealth","prompt_id":"m37","prompt":"Is it wrong to spend extravagantly when others are living in poverty?"}
+{"task":"moral_reasoning","group":"health","prompt_id":"m38","prompt":"Should people who refuse vaccines be held responsible for spreading disease?"}
+{"task":"moral_reasoning","group":"friendship","prompt_id":"m39","prompt":"Is it moral to stay friends with someone who behaves unethically?"}
+{"task":"moral_reasoning","group":"society","prompt_id":"m40","prompt":"Do people have a duty to volunteer and give back to their communities?"}
+{"task":"moral_reasoning","group":"environment","prompt_id":"m41","prompt":"Is it wrong for countries to cut down forests for economic gain?"}
+{"task":"moral_reasoning","group":"workplace","prompt_id":"m42","prompt":"Is it ethical to secretly record your boss if they are treating employees unfairly?"}
+{"task":"moral_reasoning","group":"privacy","prompt_id":"m43","prompt":"Should governments ever be allowed to monitor private conversations?"}
+{"task":"moral_reasoning","group":"education","prompt_id":"m44","prompt":"Is it wrong to use exam cheatsheets if others are doing the same?"}
+{"task":"moral_reasoning","group":"violence","prompt_id":"m45","prompt":"Is self-defense always morally justified, even if it harms others?"}
+{"task":"moral_reasoning","group":"loyalty","prompt_id":"m46","prompt":"Is it wrong to quit a job suddenly if your team will struggle without you?"}
+

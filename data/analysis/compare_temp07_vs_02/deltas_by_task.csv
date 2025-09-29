@@ -1,0 +1,9 @@
+task,Δ_pct_generic,Δ_pct_not_generic,Δ_distinct2,Δ_self_bleu,Δ_mean_sem_sim
+creative_tasks,,,,,
+everyday_advice,,,,,
+general_knowledge,,,,,
+moral_reasoning,,,,,
+rephrasing_cooking_advice,,,,,
+rephrasing_everyday_advice,,,,,
+rephrasing_wakeup_advice,,,,,
+writing_help,,,,,

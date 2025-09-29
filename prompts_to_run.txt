@@ -1,0 +1,8 @@
+python scripts/collect.py --provider openai --model gpt-3.5-turbo --temperature 0.7 --out data/responses/temp07/gpt35_t07_seed42.jsonl
+python scripts/metrics.py  --responses-glob "data/responses/temp07/*.jsonl" --out-dir data/analysis/run_temp07
+python scripts/summarize.py --in-dir data/analysis/run_temp07 --out-dir data/analysis/run_temp07
+
+
+python scripts/collect.py --provider openai --model gpt-3.5-turbo --temperature 0.2 --out data/responses/temp02/gpt35_t02_seed42.jsonl
+python scripts/metrics.py  --responses-glob "data/responses/temp02/*.jsonl" --out-dir data/analysis/run_temp02
+python scripts/summarize.py --in-dir data/analysis/run_temp02 --out-dir data/analysis/run_temp02
